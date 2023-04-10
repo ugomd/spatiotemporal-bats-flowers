@@ -1,0 +1,11 @@
+	Bholo	Bgoy	Brufa	Cbra	Hcou	Lpac	Plon	Ivera	Iedu	Ilau	Lter	Hglau	Prob	Myrt
+Acau	2	1	5	7	2	2	1	0	0	0	0	1	1	0
+Ageo	0	0	0	4	1	1	0	2	2	1	0	0	0	1
+Ldek	2	1	2	2	0	0	0	0	0	0	0	0	0	0
+Gsor	1	0	1	17	7	0	0	6	3	3	0	0	0	0
+Alit	0	0	0	0	0	0	0	0	0	0	2	0	0	0
+Cper	0	0	1	8	0	0	0	0	0	0	0	0	0	0
+Dcin	0	0	0	1	0	0	0	0	0	0	1	0	0	0
+Msch	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+Plin	0	0	0	1	0	0	0	0	0	0	3	0	0	0
+Slil	0	0	0	1	0	0	0	0	0	0	0	0	0	0

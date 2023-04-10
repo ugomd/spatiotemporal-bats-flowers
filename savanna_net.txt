@@ -1,0 +1,10 @@
+	bauh	car_bra	euca_sp	hym_cour	hym_sti	laf_pac	psi_rob	pse_lon	tip_76	ing_ed	ing_lau	ing_ver	myrt	lam_ter	tip_45	tre_fur	asteraceae	tip_58	tip_88
+ano_cau	4	2	0	1	0	0	4	0	1	0	0	0	0	0	0	0	0	0	0
+ano_geo	0	3	0	1	1	1	0	0	0	2	1	2	1	0	0	0	0	0	0
+art_lit	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+art_pla	0	0	0	0	1	0	3	0	0	0	0	0	0	3	0	0	0	0	0
+car_per	1	5	0	0	1	8	2	1	0	0	0	0	0	0	2	1	0	0	0
+der_cin	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+lon_dek	1	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0
+mic_sch	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+glo_sor	6	14	3	6	12	1	13	0	0	3	3	6	0	0	0	0	0	1	1

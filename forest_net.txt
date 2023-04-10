@@ -1,0 +1,10 @@
+	bauh	laf_pac	car_bra	bol_ind	lam_ter	myrt	tip_45	psi_rob	hym_sti	pse_lon	cei_pen	arecaceae
+ano_cau	1	1	1	0	0	0	0	0	0	0	0	0
+art_con	0	0	0	1	0	0	0	0	0	0	0	0
+art_lit	0	0	0	0	4	0	0	0	0	0	0	0
+art_pla	0	0	0	0	4	1	0	0	0	0	0	0
+car_per	0	0	3	0	0	0	2	0	0	0	0	0
+der_cin	0	0	1	0	2	0	0	0	0	0	0	0
+glo_sor	0	1	3	0	0	0	0	1	1	0	0	0
+pla_lin	0	2	1	0	6	0	0	0	0	1	0	1
+stu_lil	0	0	1	0	0	0	1	0	0	0	4	0

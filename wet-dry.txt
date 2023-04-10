@@ -1,0 +1,10 @@
+	Bgoy	Bruf	Hstig	Lpac	Prob	Lter	Cfrut
+Acau	0	0	0	1	1	0	0
+Gsor	4	1	3	1	7	0	0
+Ldek	1	1	0	1	1	0	0
+Alit	0	0	0	0	0	2	1
+Apla	0	0	0	0	2	2	0
+Cper	0	0	0	4	0	0	0
+Dand	0	0	0	0	1	0	0
+Dcin	0	0	0	0	1	0	1
+Plin	0	0	0	0	1	1	2

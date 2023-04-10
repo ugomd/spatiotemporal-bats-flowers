@@ -1,0 +1,11 @@
+	Bholo	Bgoy	Brufa	Cbra	Hstig	Lpac	Lter	Mtom	Mset	Prob	Smil	Ipro
+Acau	2	3	8	1	1	2	0	1	1	5	0	0
+Ageo	0	0	0	0	1	1	0	0	0	0	0	0
+Gsor	1	6	3	0	13	2	0	0	0	12	0	0
+Ldek	1	5	5	0	1	1	0	0	0	0	0	0
+Alit	0	0	0	0	1	0	0	0	0	0	0	0
+Apla	0	0	0	0	1	0	6	0	0	1	1	0
+Cper	0	0	0	0	1	0	0	0	0	2	0	1
+Dcin	0	0	0	0	0	0	1	0	0	0	0	0
+Plin	0	0	0	0	0	0	2	0	0	0	0	0
+Slil	0	0	0	0	0	0	1	0	0	0	0	0
