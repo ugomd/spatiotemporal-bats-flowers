@@ -13,6 +13,7 @@ E-mail for contact: ugo.diniz@tum.de
 R version used: 4.1.0 (2021-05-18) "Camp Potanezen".
 
 -> Content
+
 	1. Excel (.xlsx) files
 		- bat_phenology -> species-specific abundance of bats per month for graph construction.
 		- pca_bats -> species-specific abundance of bats per site for ordination analysis.
